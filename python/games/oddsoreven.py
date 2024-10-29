@@ -22,5 +22,3 @@ if choice == 1:
     resto = sum % 2
     if resto == 0: print('\nMeu número é {}. Você perdeu!' .format(compnumb))
     else: print('\n1Meu número é {}. Você ganhou!' .format(compnumb))
-
-exit()
